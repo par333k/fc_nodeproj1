@@ -1,2 +1,6 @@
-# fc_nodeproj1
-node.js fc allinone new 1
+## node.js 훈련 프로젝트
+* 프레임워크 사용 X
+* 블로그 포스팅 서비스
+* 로컬 파일로 DB 대체(JSON)
+* 인증 X
+* 
